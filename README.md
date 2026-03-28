@@ -10,7 +10,7 @@
 
 **A production-grade, AI-powered predictive energy management system for a hybrid solar-wind microgrid — built during the Shell-Edunet Skills4Future AICTE Internship.**
 
-[🚀 Live Demo](https://microgrid-controller.streamlit.app/) · [📖 Documentation](Project Overview) · [🛠️ Setup Guide](#getting-started)
+[🚀 Live Demo](https://microgrid-controller.streamlit.app/) · [📖 Documentation](#Project Overview) · [🛠️ Setup Guide](#getting-started)
 
 </div>
 
