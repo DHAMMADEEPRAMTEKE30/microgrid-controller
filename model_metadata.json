@@ -1,0 +1,34 @@
+{
+  "feature_cols": [
+    "solar_irradiance",
+    "wind_speed",
+    "temperature",
+    "humidity",
+    "pressure",
+    "grid_frequency",
+    "grid_voltage",
+    "grid_exchange",
+    "battery_soc",
+    "battery_charge",
+    "battery_discharge",
+    "hour",
+    "day_of_week",
+    "month",
+    "day_of_year",
+    "load_demand_lag1",
+    "solar_irradiance_lag1",
+    "wind_speed_lag1",
+    "wind_speed_roll_3h",
+    "solar_irradiance_roll_3h",
+    "load_roll_3h"
+  ],
+  "targets": [
+    "solar_output",
+    "wind_output",
+    "load_demand"
+  ],
+  "train_end": "2023-09-30 23:00:00",
+  "test_start": "2023-10-01 00:00:00",
+  "n_train": 6550,
+  "n_test": 2208
+}
